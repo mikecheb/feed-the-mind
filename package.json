@@ -1,0 +1,11 @@
+{
+  "name": "feed-the-mind",
+  "version": "0.0.1",
+  "description": "",
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.1"
+  },
+  "scripts": {
+    "build": "npx @11y/eleventy --input=src --output=_site"
+  }
+}
