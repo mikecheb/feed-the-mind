@@ -6,6 +6,8 @@
     "@11ty/eleventy": "^2.0.1"
   },
   "scripts": {
-    "build": "npx @11y/eleventy --input=src --output=docs"
+    "build": "npm run clean; npx @11y/eleventy",
+    "clean": "rm -rf docs",
+    "start": "npm run clean; npx @11y/eleventy --serve"
   }
 }
