@@ -6,6 +6,6 @@
     "@11ty/eleventy": "^2.0.1"
   },
   "scripts": {
-    "build": "npx @11y/eleventy --input=src --output=_site"
+    "build": "npx @11y/eleventy --input=src --output=docs"
   }
 }
