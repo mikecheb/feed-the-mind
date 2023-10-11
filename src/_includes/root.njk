@@ -1,0 +1,13 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    {% if title %}
+      <title>Feed the Mind - {{title}}</title>
+    {% else %}
+      <title>Feed the Mind</title>
+    {% endif %}
+  </head>
+  <body>
+    {{ content | safe }}
+  </body>
+</html>
