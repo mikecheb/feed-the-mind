@@ -1,0 +1,50 @@
+- Bombing skill tests to do damage, especially with Drawing Thin
+  - Any fight action, but especially Shotguns
+  - Bonesaw
+  - Medical Texts
+- Collateral damage
+  - Dynamite, grenades, Storm of Spirits,
+- Slowing down the game
+  - Minigames: 21 or Bust, Henry Wan, Voice of Ra
+    - Shoutout to Jacqueline Fine who can slow this down even more
+  - Introducing difficult math with Crystal pendulum (and generally the succeed/fail by)
+  - Interrupting their turn with Quick Thinking, Swift Reflexes, Honed Instinct
+  - Going infinite/generally having more actions per turn
+    - Nested actions/actions with many moving parts, like with Runic Axe
+  - Introducing more decision points around everything: Jacqueline, Guided by the Unseen
+  - Dilemmas
+    - Nature of the Beast to make them draw an encounter card
+- Complicating the board state
+- Adding Doom
+- Sealing good tokens
+- Filling the bag with curses (e.g. Geas)
+- Encounter manipulation
+  - Parallel Fates, Gloria
+- Miscellaneous Trolling
+  - Playing the same unique assets
+    - Even better: Use Flare to search their deck
+  - Nkosi sigil autofail
+  - Ditching them with an enemy with Elusive
+    - Or multiple enemies gathered with On the Hunt
+    - Playing enemy-summoning events as Luke (On the Hunt, Hornet's Nest)
+  - Skip the investigator phase with Gold Pocket Watch
+- Rogue actions
+  - "I'll Pay You Back!"
+  - "You handle this one!"
+  - "You owe me one!"
+  - Think on your feet
+- Affecting their state without their consent
+  - Time Warp
+  - Shortcut
+  - Archive of Conduits
+- Direct betrayal
+  - Hidden cards
+  - Weaknesses like Kleptomania
+- Early resignation
+  - "I'm outta here!"
+
+Edge cases:
+- Making them draw when they don't want to
+- Making them fail by more/less than they want to with Granny Orne (rotting remains)
+- Making them succeed when they don't want to with Lucky 3
+- Tailing them while they have Lone Wolf
